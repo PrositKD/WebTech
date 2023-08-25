@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "ejdnhedb",
+        "Phone number": "jsdhb",
+        "Gender": "Male",
+        "Email": "jdbhbd@jdfh",
+        "Password": "12345",
+        "Date": "2023-02-02",
+        "ShopName": "sjb",
+        "Shop Type": "Nursery",
+        "Address": "snhwbs",
+        "file": "..\/uploads\/.jpg"
+    },
+    {
+        "Name": "sagor ami",
+        "Phone number": "01727826804",
+        "Gender": "Male",
+        "Email": "aminulislamsagor23@gmail.com",
+        "Password": "A12345",
+        "Date": "2023-03-15",
+        "ShopName": "Tri Gardenning",
+        "Shop Type": "Flower Shop",
+        "Address": "seses",
+        "file": "..\/uploads\/aminulislamsagor23@gmail.com.jpg"
+    },
+    {
+        "Name": "Prosit Kumar Das",
+        "Phone number": "01777025958",
+        "Gender": "Male",
+        "Email": "POBITRO.KD@gmail.com",
+        "Password": "1122AA",
+        "Date": "2023-02-28",
+        "ShopName": "AB SHOP",
+        "Shop Type": "Flower Shop",
+        "Address": "AS,AD",
+        "file": "..\/uploads\/POBITRO.KD@gmail.com.jpg"
+    },
+    {
+        "Name": "Prosit Kumar",
+        "Phone number": "01777025958",
+        "Gender": "Male",
+        "Email": "prosit.kd@gmail.com",
+        "Password": "1122AA",
+        "Date": "1999-06-10",
+        "ShopName": "AB SHOP",
+        "Shop Type": "Flower Shop",
+        "Address": "DHAKA,1200",
+        "file": "..\/uploads\/prosit.kd@gmail.com.jpg"
+    }
+]

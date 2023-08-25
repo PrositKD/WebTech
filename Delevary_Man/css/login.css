@@ -1,0 +1,87 @@
+/* Set the background color of the whole page */
+body {
+    background-color: LightSeaGreen;
+  }
+  
+  /* Center the form heading */
+  h1 {
+    text-align: center;
+  }
+  
+  /* Set the font size for form fields */
+  input[type=text], input[type=password], input[type=date], select, textarea {
+    font-size: 18px;
+  }
+  
+  /* Add padding to the form fields */
+  input[type=text], input[type=password], input[type=date], select, textarea {
+    padding: 12px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  /* Add hover effects to form fields */
+  input[type=text]:hover, input[type=password]:hover, input[type=date]:hover, select:hover, textarea:hover {
+    background-color: #f0f0f0;
+  }
+  form {
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    padding: 20px;
+    width: 40%;
+    margin: 0 auto;
+  }
+  
+  /* Style the submit button */
+  input[type=submit], input[type=reset], input[type=button] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  body {
+    background-image: url("../../assets/back.jpg");
+    background-size: cover;
+    font-family: sans-serif;
+}
+  
+  /* Add hover effect to submit button */
+  input[type=submit]:hover, input[type=reset]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Set style for error messages */
+  p {
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  
+  /* Center the form */
+  table {
+    margin: auto;
+  }
+  
+  /* Set style for form labels */
+  td {
+    text-align: left;
+    padding-right: 10px;
+    font-size: 18px;
+  }
+  
+  /* Set style for form headings */
+  th {
+    text-align: left;
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+  
+  /* Set style for radio buttons and checkboxes */
+  input[type=radio], input[type=checkbox] {
+    margin-right: 10px;
+  }
+  

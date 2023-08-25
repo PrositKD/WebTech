@@ -1,0 +1,86 @@
+body {
+    background-color: LightSeaGreen;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  div {
+    margin: auto;
+    width: 50%;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  table {
+    margin: auto;
+  }
+  
+  table td {
+    padding: 10px;
+  }
+  
+  .button {
+    display: inline-block;
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  
+  .button:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .button.submit {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .button.submit:hover {
+    background-color: white;
+    color: #4CAF50;
+  }
+  
+  .button.reset {
+    background-color: #FF4136;
+    color: white;
+    border-color: #FF4136;
+  }
+  
+  .button.reset:hover {
+    background-color: white;
+    color: #FF4136;
+    border-color: #FF4136;
+  }
+  
+  .button.resister {
+    background-color: #0074D9;
+    color: white;
+    border-color: #0074D9;
+  }
+  
+  .button.resister:hover {
+    background-color: white;
+    color: #0074D9;
+    border-color: #0074D9;
+  }
+  
+  #pcustome {
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  #bcustome {
+    margin-top: 10px;
+  }

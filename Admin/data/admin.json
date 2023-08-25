@@ -1,0 +1,52 @@
+[
+    {
+        "name": "NNAFIS",
+        "address": " dhaka",
+        "email": "knafis069@gmail.com",
+        "phone": "01779776832",
+        "Gender": "Male",
+        "dob": "2023-03-08",
+        "nid": "1234567891234566",
+        "password": "N12345"
+    },
+    {
+        "name": "Hasan",
+        "address": " Dhaka",
+        "email": "nnirob180@gmail.com",
+        "phone": "01779776839",
+        "Gender": "Male",
+        "dob": "2023-03-14",
+        "nid": "1234567891234123",
+        "password": "H12345"
+    },
+    {
+        "name": "Prosit kumar das",
+        "address": " sdfaf",
+        "email": "prosit.kd@gmail.com",
+        "phone": "01777025958",
+        "Gender": "Male",
+        "dob": "2023-02-28",
+        "nid": "1111111111111111",
+        "password": "1111AA"
+    },
+    {
+        "name": "Prosit kd",
+        "address": " Adsdsa,dhgs",
+        "email": "prosit.kd@gmail.com",
+        "phone": "01777025958",
+        "Gender": "Male",
+        "dob": "2023-02-28",
+        "nid": "1122212121221112",
+        "password": "1122AA"
+    },
+    {
+        "name": "SRUTI SIKDER",
+        "address": " SASADF,TYDYUE",
+        "email": "20-44063-2@student.aiub.edu",
+        "phone": "01793302392",
+        "Gender": "Male",
+        "dob": "2023-02-13",
+        "nid": "1122112211221122",
+        "password": "1122AA"
+    }
+]

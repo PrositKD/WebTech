@@ -1,0 +1,107 @@
+[
+    {
+        "Name": "PKD",
+        "Phone Number": "01777025958",
+        "email": "pobitro.kd@gmail.com",
+        "Photo": "..\/uploads\/pobitro.kd@gmail.com.jpg",
+        "Gender": "Female",
+        "Date of Birth": "2023-02-07",
+        "Address": "3t54m,ewgferwg",
+        "Vehicle": [
+            "Cycle"
+        ],
+        "Fee": "Per hour",
+        "Tk": "235",
+        "password": "11"
+    },
+    {
+        "Name": "PKD",
+        "Phone Number": "234313",
+        "email": "prosit.kd@gmail.com",
+        "Photo": "..\/uploads\/prosit.kd@gmail.com.jpg",
+        "Gender": "Male",
+        "Date of Birth:": "2023-02-07",
+        "Address": "12r34",
+        "Vehicle": [
+            "Cycle"
+        ],
+        "Fee": "Per hour",
+        "Tk": "343",
+        "password": "1122"
+    },
+    {
+        "Name": "PKD",
+        "Phone Number": "234313",
+        "email": "prosit.kd@gmail.com",
+        "Photo": "..\/uploads\/prosit.kd@gmail.com.jpg",
+        "Gender": "Male",
+        "Date of Birth": "2023-02-07",
+        "Address": "12r34",
+        "Vehicle": [
+            "Cycle"
+        ],
+        "Fee": "Per hour",
+        "Tk": "343",
+        "password": "112222"
+    },
+    {
+        "Name": "prosit",
+        "Phone Number": "01777025958",
+        "email": "20-44063-2@student.aiub.edu",
+        "Photo": "..\/uploads\/20-44063-2@student.aiub.edu.jpg",
+        "Gender": "Male",
+        "Date of Birth": "2022-11-30",
+        "Address": "AaaaaaaaKuril,\r\ndhaka",
+        "Vehicle": [
+            "Bike"
+        ],
+        "Fee": "Per hour",
+        "Tk": "100",
+        "password": "1122"
+    },
+    {
+        "Name": "Asif ss",
+        "Phone Number": "0192819313",
+        "email": "sdsd@df.com",
+        "Photo": "..\/uploads\/sdsd@df.com.jpg",
+        "Gender": "Male",
+        "Date of Birth": "2023-01-10",
+        "Address": "Asasd,fsgs",
+        "Vehicle": [
+            "Cycle"
+        ],
+        "Fee": "Per hour",
+        "Tk": "122",
+        "password": "1122"
+    },
+    {
+        "Name": "PKD",
+        "Phone Number": "01928193131",
+        "email": "tudendu@GMAIL.COM",
+        "Photo": "..\/uploads\/tudendu@GMAIL.COM.jpg",
+        "Gender": "Male",
+        "Date of Birth": "2023-02-28",
+        "Address": "qwdqd",
+        "Vehicle": [
+            "Cycle"
+        ],
+        "Fee": "Per hour",
+        "Tk": "222",
+        "password": "1122"
+    },
+    {
+        "Name": "Prosit Kumar Das",
+        "Phone Number": "01928193131",
+        "email": "Prosit.kd@gmail.com",
+        "Photo": "..\/uploads\/Prosit.kd@gmail.com.jpg",
+        "Gender": "Male",
+        "Date of Birth": "1999-01-08",
+        "Address": "Dhaka,1200",
+        "Vehicle": [
+            "Cycle"
+        ],
+        "Fee": "Per hour",
+        "Tk": "1222",
+        "password": "1122AA"
+    }
+]

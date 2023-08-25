@@ -1,0 +1,301 @@
+*{text-align:center; box-sizing: border-box;}
+#pcustome{
+    color:white;
+    background-color: #1454b3;
+    border-left: #11451b 10px solid;
+    width: 120px;
+    position: relative;
+    left: 550px;
+    top: 40px;
+}
+#hcustome{
+  color:white;
+  background-color: #7090c1;
+  border-left: #11451b 0px solid;
+  width: 300px;
+  position: relative;
+  left: 600px;
+  top: 20px;
+}
+#bcustome{
+  color:white;
+  background-color: #7090c1;
+  border-left: #11451b 0px solid;
+  width: 300px;
+  position: static;
+  
+}
+div1{
+  padding: 50px;
+  margin-top: 20px;
+  margin-left: 100%;
+   border: 5px solid rgb(43, 130, 189);
+   background-color: #0a1517;
+   width: 100%;
+   position: relative;
+   left: 0px;
+ }
+ nav{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #62a362;
+  padding: 5px 5%;
+ 
+}
+ div2{
+  padding: 30px;
+  margin-top: 10px;
+   border: 5px solid rgb(43, 130, 189);
+   background-color: #468291;
+   width: 100px;
+   position: relative;
+   left: 0px;
+ }
+
+
+div.form {
+   padding: 10px;
+   margin-top: 10px;
+    border: 5px dotted rgb(192, 27, 27);
+    width: 500px;
+    position: relative;
+    left: 380px;
+  }
+  .button {
+    padding: 14px 20px;
+    margin: 8px 0;
+    width: 100px;
+    height: auto;
+  }
+  .submit {
+  
+   background-color: #357fe7;
+   color: white;
+  }
+  .submit2 {
+    background-color: #35147d;
+    color: white;
+   }
+
+  .reset {
+    background-color: #dc2b2b;
+    color: white;
+   }
+   body {
+    background-image: url("../../assets/back2.jpg");
+    background-size: cover;
+    font-family: sans-serif;
+}
+  
+  
+  /* Float four columns side by side */
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+    margin-bottom: 20px;
+    border-color: #000;
+    
+  }
+  
+  /* Remove extra left and right margins, due to padding */
+  .row {margin: 0 -5px;}
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive columns */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(182, 61, 61, 0.2);
+    
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+background-color: #0000008a;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  .btnp {
+    border: none;
+    width: 220px;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #436f2e;
+    text-align: center;
+    cursor: pointer;
+  position: sticky;
+    font-size: 18px;
+  }
+  .btnp:hover {background: #eee;}
+
+  .btn {
+    border: none;
+    width: 120px;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #25df4d;
+    text-align: center;
+    cursor: pointer;
+  
+    font-size: 18px;
+  }
+  
+  .btn:hover {background: #eee;}
+  
+  .success {color: green;}
+  .info {color: dodgerblue;}
+  .warning {color: orange;}
+  .danger {color: red;}
+  .default {color: black;}
+
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', 'sens-serif';
+  }
+ 
+  d {
+    background-color: #a5d7d7;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  
+  .logo {
+    width: 40px;
+    margin-right: 45px;
+  }
+  
+  .NavLeft,
+  .NavRight {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navLeft ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+  
+  }
+  
+  .userIcon img {
+    width: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .SearchBox {
+    background: #efefef;
+    width: 359px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    margin-right: 50px;
+  
+  }
+  
+  .SearchBox img {
+    width: 18px;
+  }
+  
+  .SearchBox input {
+    width: 100%;
+    background: transparent;
+    padding: 10px;
+    outline: none;
+    border: 0;
+  }
+  
+  
+  .leftSide {
+    width: 250px;
+    float: left;
+    height: auto;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 10px;
+    /* Add this to create some space between the element and the main content */
+  }
+  
+  .align {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: top;
+    margin: 10px 0;
+    height: 100%;
+  }
+  
+  .align img {
+    margin-bottom: 30px;
+    border-radius: 80%;
+  }
+  
+  
+  
+  
+  
+  
+  table {
+    width: 100%;
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
+  textarea,
+  input[type="number"],
+  input[type="file"],
+  input[type="pt"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+
+  
